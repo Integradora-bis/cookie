@@ -22,28 +22,31 @@ ul{
 
 .card{
   margin: 10px;    
-  padding: 3px;
-  float: right;
+  padding: 5px;
+  text-align: justify;
+  color: black;
     
 }
 
 
-.card-title{
+.cardtitle{
   margin: 3px;
   color: white;
-  background-color: #726c6c44;
+  text-align: justify;
+  
 }
 
-.card-text{
+.cardtext{
   margin: 3px;
   color: white;
-  background-color: #726c6c44;
+  text-align: justify;
 }
+
 
 .card-bg{
-  margin: 10px;    
+  margin: 25px;    
   padding: 3px;
-  float: left;
+  float: right;
 }
 
 .site-footer
